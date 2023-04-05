@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2",
-    "dotenv": "^16.0.3"
+    "@rainbow-me/rainbowkit": "^0.12.5",
+    "dotenv": "^16.0.3",
+    "hardhat-exposed": "^0.3.2"
   }
 }
